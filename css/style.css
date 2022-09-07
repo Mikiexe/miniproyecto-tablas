@@ -1,0 +1,16 @@
+.tablaHuron {
+    border: 3px solid black;
+    outline: auto;
+}
+thead {
+    background-color:#3FCED9;
+}
+tbody {
+    background-color: #A1F0DE;
+}
+body {
+    background-image: url(../images/Comida-huron.jpg);
+}
+.frml1 {
+    background-color: bisque;
+}
